@@ -9,11 +9,15 @@ The Main Screen.
 
 The main screen is the Pilgrim Queue (PQ) management page. It appears as a series of rows, each of which contains information about a particular Pilgrim who is waiting to confess to an elder. The information is as follows:
 
-First Name, Last Name, Date of Arrival, Date of Departure, Confessor(elder to be seen), Place of origin, a icon indicating that that an image of the pilgrim exists, and an icon indicating there are notes for this pilgrim. lastly, there is a button labeled "confessed". When the confessed button is clicked, the pilgrim's information is archived and the row is removed from the list.
+First Name, Last Name, Date of Arrival, Date of Departure, Confessor(elder to be seen), Place of origin, a icon indicating that that an image of the pilgrim exists, and an icon indicating there are notes for this pilgrim. lastly, there is a button labeled "confessed". 
+
+When the confessed button is clicked, the pilgrim's information is archived and the row is removed from the list.
 
 At the bottom of the main screen there is an icon in the form of a plus sign. Clicking on the plus sign icon opens an Add New Pilgrim dialog.
 
-Next to the Add New Pilgrim plus sign is an icon that resembles a scroll. When it is clicked on, a dialog appears with the archived pilgrim information in list form similar but more compact than the pilgrim queue list. Clicking on one of the archived items brings up a dialog similar to the detail dialog but which provides cancel and confirm buttons. If the user clicks on confirm, the archived pilgrim is added as a row to the Pilgrim queue.
+Next to the Add New Pilgrim plus sign is an icon that resembles a scroll. When it is clicked on, a dialog appears with the archived pilgrim information in list form similar but more compact than the pilgrim queue list.
+
+Clicking on one of the archived items brings up a dialog similar to the detail dialog but which provides cancel and confirm buttons. If the user clicks on confirm, the archived pilgrim is added as a row to the Pilgrim queue.
 
 The image icon. If the image icon is green, it indicates that an image of that pilgrim exists. Clicking on a green image button brings up the pilgrim's image. clicking on a red image icon brings up a image upload dialog.
 
